@@ -1,1 +1,2 @@
-# cinema-movie-ticket-booking-website-in-php
+# Cinema Movie Ticket Booking Website in PHP
+Booking ticket for Movie in website
